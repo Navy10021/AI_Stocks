@@ -5,7 +5,7 @@
  
 ## 1. About App
 
-Img
+![app_example](https://user-images.githubusercontent.com/105137667/180596334-7555d270-85f3-4f0e-a72e-237c18080252.jpg)
 
 ## 2. About Data
 We used stock price data from 2018-01-01 to the present from yahoo finance. Also, data highly correlated with stock prices(interest rates, commodity prices, import/export trends etc) were additionally collected.
