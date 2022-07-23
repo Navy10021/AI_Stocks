@@ -20,7 +20,7 @@ We applied various 'Machine Learning', 'Ensemble' and 'Deep Learning' models to 
 
 See "Stock Price prediction Models.ipnb" for performance evaluation of models.
 
-## 4. Prediction
+## 4. About Prediction
 
 - Short-term prediction : We use the AI models introduced above to predict the direction(up or down) of tomorrow's stock price.
 - Long-term prediction : After automatically finding the optimal moving average(MA) with our model, measures trend by the "Method of Moving Average technique". Then, predicts the user's stock position(sell or buy).
