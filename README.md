@@ -1,6 +1,6 @@
 # Stock Price Prediction Using Artificial Intelligence models
 
- This project aims to build a highly performant prediction model in the field of finance by applying ML/DL models. We propose "AI-Stock", a light and fast stock price forecaster which is useful in real-life applications.
+ This project aims to build a high-performance prediction model in the field of finance by applying ML/DL models. We propose "AI-Stock", a light and fast stock price forecaster which is useful in real-life applications.
  This model predicts the direction of 'long-term' and 'short-term(tomorrow)' stock prices and can be used to determine the user's investment.
  
 ## 1. About App
