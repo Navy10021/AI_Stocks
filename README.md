@@ -5,7 +5,7 @@
  
 ## 1. About App
 
-Imange
+Img
 
 ## 2. About Data
 We used stock price data from 2018-01-01 to the present from yahoo finance. Also, data highly correlated with stock prices(interest rates, commodity prices, import/export trends etc) were additionally collected.
@@ -19,4 +19,9 @@ We applied various 'Machine Learning', 'Ensemble' and 'Deep Learning' models to 
 - Transformer-based model(Doesn't apply to App) : Transformer
 
 See "Stock Price prediction Models.ipnb" for performance evaluation of models.
+
+## 4. Prediction
+
+- Short-term prediction : We use the AI models introduced above to predict the direction(up or down) of tomorrow's stock price.
+- Long-term prediction : After automatically finding the optimal moving average(MA) with our model, measures trend by the "Method of Moving Average technique". Then, predicts the user's stock position(sell or buy).
  
