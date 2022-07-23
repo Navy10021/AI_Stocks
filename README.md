@@ -1,2 +1,22 @@
-# AI_Stocks
-Stocks Price Prediction with Artificial Intelligence models
+# Stock Price Prediction Using Artificial Intelligence models
+
+ This project aims to build a highly performant prediction model in the field of finance by applying ML/DL models. We propose "AI-Stock", a light and fast stock price forecaster which is useful in real-life applications.
+ This model predicts the direction of 'long-term' and 'short-term(tomorrow)' stock prices and can be used to determine the user's investment.
+ 
+## 1. About App
+
+Imange
+
+## 2. About Data
+We used stock price data from 2018-01-01 to the present from yahoo finance. Also, data highly correlated with stock prices(interest rates, commodity prices, import/export trends etc) were additionally collected.
+
+## 3. About Models
+We applied various 'Machine Learning', 'Ensemble' and 'Deep Learning' models to predict stock prices.
+
+- Machine Learing : Linear Regression(Ridge), Support Vector Machines
+- Ensemble : Random Forest, ExtraTrees, AdaBoost, XGBoost, Light GMB
+- Deep Learning : Multi-Layer Perceptron(MLP), Vanila RNN, LSTM, GRU
+- Transformer-based model(Doesn't apply to App) : Transformer
+
+See "Stock Price prediction Models.ipnb" for performance evaluation of models.
+ 
