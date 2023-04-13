@@ -25,3 +25,6 @@ See "Stock Price prediction Models.ipnb" for performance evaluation of models.
 - Short-term prediction : We use the AI models introduced above to predict the direction(up or down) of tomorrow's stock price.
 - Long-term prediction : After automatically finding the optimal moving average(MA) with our model, measures trend by the "Method of Moving Average technique". Then, predicts the user's stock position(sell or buy).
  
+## 5. Dev
+ - Seoul National University NLP Labs
+ - Navy Lee
